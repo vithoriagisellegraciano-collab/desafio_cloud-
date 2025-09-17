@@ -1,1 +1,2 @@
-# desafio_cloud-
+- integrante: Luana Sato
+- 
